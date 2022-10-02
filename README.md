@@ -8,8 +8,8 @@
 </a>
 
  <br/>
- 
-I am a React Font End Developer who is trying to obtain a creative and challenging position that utilizes my current knowledge of web development. I am always willing to learn new technologies. I work well both independently and on a team
+ <br/>
+I am MERN Stack Developer who is trying to obtain a creative and challenging position that utilizes my current knowledge of web development. I am always willing to learn new technologies. I work well both independently and on a team
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
