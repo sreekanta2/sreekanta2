@@ -4,7 +4,7 @@
 
 ## Connect with me
  
-
+ 
 <a href="https://www.linkedin.com/in/sreekanta-singha-64b1b6203/">
   <img align="left" alt="Sreekanta LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
