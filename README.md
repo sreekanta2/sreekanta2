@@ -3,6 +3,9 @@
 ![ ]( https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-6/267780063_3300420923616131_701167589568545417_n.png?_nc_cat=108&ccb=1-7&_nc_sid=e3f864&_nc_ohc=AETuAEAmxXsAX9Ff-Cb&_nc_ht=scontent.fdac24-2.fna&oh=00_AT9wh9DSeOu4JdKep-MNn9CQS3lqupkAt9ykkNDBcRiT6g&oe=633EB811)
 
 #### Connect with me
+<a href="[https://www.linkedin.com/in/sreekanta-singha-64b1b6203/](https://www.facebook.com/profile.php?id=100009447675844)">
+  <img align="left" alt="Sreekanta facebook" width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2F1000logos.net%2Ffacebook-logo%2F&psig=AOvVaw10SdCQh8nqAVnxSsmYk3tT&ust=1664839605850000&source=images&cd=vfe&ved=2ahUKEwjp3eT72ML6AhUkRGwGHQkECaEQjRx6BAgAEAs" />
+</a>
 <a href="https://www.linkedin.com/in/sreekanta-singha-64b1b6203/">
   <img align="left" alt="Sreekanta LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
