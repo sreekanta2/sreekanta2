@@ -4,7 +4,7 @@
 
 #### Connect with me
 <a href="[https://www.linkedin.com/in/sreekanta-singha-64b1b6203/](https://www.facebook.com/profile.php?id=100009447675844)">
-  <img align="left" alt="Sreekanta facebook" width="22px" src="https://1000logos.net/wp-content/uploads/2021/04/Facebook-logo.png" />
+  <img align="left" alt="Sreekanta facebook" width="30px" src="https://1000logos.net/wp-content/uploads/2021/04/Facebook-logo.png" />
 </a>
 <a href="https://www.linkedin.com/in/sreekanta-singha-64b1b6203/">
   <img align="left" alt="Sreekanta LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
