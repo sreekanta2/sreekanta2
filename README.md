@@ -3,7 +3,7 @@
 ![ ]( https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-6/267780063_3300420923616131_701167589568545417_n.png?_nc_cat=108&ccb=1-7&_nc_sid=e3f864&_nc_ohc=AETuAEAmxXsAX9Ff-Cb&_nc_ht=scontent.fdac24-2.fna&oh=00_AT9wh9DSeOu4JdKep-MNn9CQS3lqupkAt9ykkNDBcRiT6g&oe=633EB811)
 
 #### Connect with me
-<a href=" ([https://www.facebook.com/profile.php?id=100009447675844](https://www.canva.com/design/DAFpeXIm1AU/hDPzbArGM35mnJc8iWAfcg/edit?utm_content=DAFpeXIm1AU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))">
+<a href=" https://www.canva.com/design/DAFpeXIm1AU/hDPzbArGM35mnJc8iWAfcg/edit?utm_content=DAFpeXIm1AU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
   <img align="left" alt="Sreekanta facebook" width="30px" src="https://1000logos.net/wp-content/uploads/2021/04/Facebook-logo.png" />
 </a>
 <a href="https://www.linkedin.com/in/sreekanta-singha-64b1b6203/">
