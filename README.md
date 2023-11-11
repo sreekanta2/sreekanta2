@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, I'm Sreekanta Singha</h1>
+ <h1 align="left">Hi 👋, I'm Sreekanta Singha</h1>
 
  <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
