@@ -1,4 +1,4 @@
-### Hi there 👋, I am Sreekanta
+ <h1 align="center">Hi 👋, I'm Sreekanta Singha</h1>
 
  <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
