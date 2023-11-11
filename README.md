@@ -6,7 +6,7 @@
 - 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
 - 🌱 &nbsp; Learning more about Database, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sreekanta2&label=Profile%20views&color=0e75b6&style=flat" alt="sreekanta2" /> </p>
 
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="220" />
 <h3> 🛠 &nbsp;Tech Stack</h3>
