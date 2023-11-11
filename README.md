@@ -24,7 +24,8 @@
   
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sreekanta2&show_icons=true&locale=en&layout=compact" alt="sreekanta2" /></p>
- 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sreekanta2&show_icons=true&locale=en&layout=compact" alt="sreekanta2" /></p>
+ <br/>
  - <h3 align="left"> 🏢 :office Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sreekanta-singha-64b1b6203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sreekanta-singha-64b1b6203/" height="30" width="40" /></a>
