@@ -12,7 +12,7 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,redux,nextjs,mongodb,firebase" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,redux,nextjs,nodejs,express,mongodb,firebase" />
   </a>
 </p>
 
