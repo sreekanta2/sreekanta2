@@ -11,10 +11,18 @@
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 <p align="left">
+ 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,redux,nextjs,nodejs,express,mongodb,firebase&perline=6" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,redux,nextjs,nodejs,express,mongodb,firebase&perline=8" />
   </a>
 </p>
+<p align="left">
+ 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,vite&perline=8" />
+  </a>
+</p>
+
 
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
