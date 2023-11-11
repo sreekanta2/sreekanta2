@@ -10,8 +10,7 @@
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
- [![My Skills](https://skillicons.dev/icons?i=html,css, bootstrap, tailwind,js,react,next,nodejs,express)](https://skillicons.dev)
-  
+[![My Skills](https://skillicons.dev/icons?i=html,css,nodejs,figma&theme=light)](https://skillicons.dev)
 
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
