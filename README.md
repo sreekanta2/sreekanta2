@@ -6,7 +6,7 @@
 
 - <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
- <h3>Welcome to my profile! I am MERN Stack developer with a proven track record of 2 years, dedicated to crafting user-friendly and engaging web applications. My expertise lies in creating intuitive and visually appealing user interfaces using a combination of HTML, CSS, JavaScript, React JS, Next JS, and Redux. I have a good knowledge  of front-end development and am committed to staying up-to-date with the latest industry trends and best practices to deliver cutting-edge solutions.</h3>
+ <p>Welcome to my profile! I am MERN Stack developer with a proven track record of 2 years, dedicated to crafting user-friendly and engaging web applications. My expertise lies in creating intuitive and visually appealing user interfaces using a combination of HTML, CSS, JavaScript, React JS, Next JS, and Redux. I have a good knowledge  of front-end development and am committed to staying up-to-date with the latest industry trends and best practices to deliver cutting-edge solutions.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sreekanta2&label=Profile%20views&color=0e75b6&style=flat" alt="sreekanta2" /> </p>
 
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="220" />
