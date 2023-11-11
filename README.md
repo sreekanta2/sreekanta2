@@ -1,8 +1,8 @@
  <h1>Hi 👋, I'm Sreekanta Singha</h1>
 
-- 👑 I am MERN Stack Web Developer
-- 🖊️ Love read to write code
-- 🎤 Enjoying exploring new technologies
+<p>👑 I am MERN Stack Web Developer</p> 
+<p>🖊️ Love read to write code</p> 
+<p>🎤 Enjoying exploring new technologies</p> 
 
 - <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
