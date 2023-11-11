@@ -1,5 +1,8 @@
  <h1>Hi 👋, I'm Sreekanta Singha</h1>
 
+👑 I am Web Developer
+🖊️ Love to write code
+🎤 Like to share my knowledge
  <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
